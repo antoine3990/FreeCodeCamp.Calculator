@@ -3,15 +3,16 @@ body {
 }
 
 #calculator {
+    top: 0px;
     position: relative;
-    width: 800px;
-    height: 800px;
+    width: 600px;
+    height: 600px;
     margin: 0 auto;
     background-color: rgb(80,80,80);
 }
     #calculator > input {
         width: 100%;
-        height: 10%;
+        height: 15%;
         padding: 0 3%;
         background-color: white;
         font: 400 46px lato, sans-serif;
