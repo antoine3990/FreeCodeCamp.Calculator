@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(200,200,200);
+}
+
+#calculator {
+    position: relative;
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    background-color: rgb(80,80,80);
+}
